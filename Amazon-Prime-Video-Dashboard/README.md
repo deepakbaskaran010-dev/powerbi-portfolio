@@ -220,7 +220,7 @@ MAX('Prime Video'[release_year])
 
 ### Overview Dashboard
 
-![Dashboard Overview](/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
